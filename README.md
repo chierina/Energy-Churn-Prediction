@@ -1,4 +1,4 @@
-# ESCP ML with Python Final Project
+# Machine Learning with Python Final Project
 I chose a case study designed for a top tier strategic consulting company for my final project.\
 You can find following files in this repository. \
 * Datasets : all the provided datasets for training and testing. \
@@ -11,7 +11,7 @@ There are 3 datasets given as follows; 1. Features of customers 2. Electric pric
 I merged those 3 and explored the them to find out which model to choose then built models that can predict the probability of churn. \
 In this repository, you can find the datasets and codes of modelling. \
 \
-**Data Processing**
+**Data Processing**\
 Used all the 3 files given. (detailed data description can be found at the end) \
 Some of the key processes are: \
 * Checked the time series and avoided using those features. \
@@ -21,7 +21,7 @@ Some of the key processes are: \
 * Feature hashing encoding for high dimensional feature.  \
 * Up/Down sampled the imbalanced target variable.  \
  \
-**Modelling**
+**Modelling**\
  * Considering the distribution of data and computational expense, tested Ensemble methods (Random Forest, XGboost, Gradient Boost, Adaboost)\
  * Used Grid Search Cross Validation for all the models to maximize the ROC.\
  * Draw learning curves to estimate the best parameter ranges for Grid Search.\
