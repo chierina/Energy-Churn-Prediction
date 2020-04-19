@@ -13,7 +13,7 @@ In this repository, you can find the datasets and codes of modelling. \
 \
 **Data Processing** \
 Used all the 3 files given. (detailed data description can be found at the end) \
-Some of the key processes are: \
+Some of the key processes are:
 * Checked the time series and avoided using those features.
 * Converted date features into numerical and calculated the duration from the start date. 
 * Imputed missing data with KNN.  
@@ -21,8 +21,8 @@ Some of the key processes are: \
 * Feature hashing encoding for high dimensional feature.  
 * Up/Down sampled the imbalanced target variable.  
  \
-**Modelling** \
- * Considering the distribution of data and computational expense, tested Ensemble methods (Random Forest, XGboost, Gradient Boost, Adaboost) \
+**Modelling**
+ * Considering the distribution of data and computational expense, tested Ensemble methods (Random Forest, XGboost, Gradient Boost, Adaboost)
  * Used Grid Search Cross Validation for all the models to maximize the ROC. 
  * Draw learning curves to estimate the best parameter ranges for Grid Search. 
  \
