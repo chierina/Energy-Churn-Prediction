@@ -24,7 +24,8 @@ Some of the key processes are:
 **Modelling**
  * Considering the distribution of data and computational expense, tested Ensemble methods (Random Forest, XGboost, Gradient Boost, Adaboost)
  * Used Grid Search Cross Validation for all the models to maximize the ROC. 
- * Draw learning curves to estimate the best parameter ranges for Grid Search. \ 
+ * Draw learning curves to estimate the best parameter ranges for Grid Search.
+ \
  \
 **Data Description** \
 ![alt text](https://github.com/chierina/ESCP-ML-Python/blob/master/data_description.png)
