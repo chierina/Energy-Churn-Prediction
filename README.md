@@ -3,7 +3,7 @@ I chose a case study designed for a top tier strategic consulting company for my
 You can find following files in this repository.
 * Datasets : all the provided datasets for training and testing.
 * Codes : codes for data exploration, training models, and testing.
-* Result : validation result output.
+* Result : validation result output. \
 \
 **Case Scenario** \
 Company A is a major utility company providing gas and electricity to corporate, SME and residential customers. In recent years, post-liberalization of the energy market in Europe, company A has had a growing problem with increasing customer defections above industry average. The churn issue is most acute in the SME division and thus they want it to be the first priority. \
@@ -19,13 +19,12 @@ Some of the key processes are:
 * Imputed missing data with KNN.  
 * Removed outliers.  
 * Feature hashing encoding for high dimensional feature.  
-* Up/Down sampled the imbalanced target variable.  
- \
+* Up/Down sampled the imbalanced target variable. \
+\
 **Modelling**
  * Considering the distribution of data and computational expense, tested Ensemble methods (Random Forest, XGboost, Gradient Boost, Adaboost)
  * Used Grid Search Cross Validation for all the models to maximize the ROC. 
- * Draw learning curves to estimate the best parameter ranges for Grid Search. 
- \
+ * Draw learning curves to estimate the best parameter ranges for Grid Search. \ 
  \
 **Data Description** \
 ![alt text](https://github.com/chierina/ESCP-ML-Python/blob/master/data_description.png)
