@@ -1,5 +1,5 @@
 # Machine Learning with Python Final Project
-I chose a case study designed for a top tier strategic consulting company for my final project. \
+I chose a case study designed for a top tier strategic consulting company for my final project.
 You can find following files in this repository. \
 * Datasets : all the provided datasets for training and testing.
 * Codes : codes for data exploration, training models, and testing.
@@ -25,6 +25,7 @@ Some of the key processes are:
  * Considering the distribution of data and computational expense, tested Ensemble methods (Random Forest, XGboost, Gradient Boost, Adaboost)
  * Used Grid Search Cross Validation for all the models to maximize the ROC. 
  * Draw learning curves to estimate the best parameter ranges for Grid Search. 
+ \
  \
 **Data Description** \
 ![alt text](https://github.com/chierina/ESCP-ML-Python/blob/master/data_description.png)
