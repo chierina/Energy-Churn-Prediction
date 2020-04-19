@@ -1,8 +1,8 @@
 # Machine Learning with Python Final Project
 I chose a case study designed for a top tier strategic consulting company for my final project. \
 You can find following files in this repository. \
-* Datasets : all the provided datasets for training and testing. \
-* Codes : codes for data exploration, training models, and testing. \
+* Datasets : all the provided datasets for training and testing.  \
+* Codes : codes for data exploration, training models, and testing.  \
 * Result : validation result output. \
 \
 **Case Scenario** \
