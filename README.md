@@ -1,9 +1,9 @@
 # ESCP ML with Python Final Project
 I chose a case study designed for a top tier strategic consulting company for my final project.\
 You can find following files in this repository. \
-* Item 1 Datasets : all the provided datasets for training and testing. \
-* Item 2 Codes : codes for data exploration, training models, and testing. \
-* Item 3 Result : validation result output. \
+* Datasets : all the provided datasets for training and testing. \
+* Codes : codes for data exploration, training models, and testing. \
+* Result : validation result output. \
 \
 **Case Scenario** \
 Company A is a major utility company providing gas and electricity to corporate, SME and residential customers. In recent years, post-liberalization of the energy market in Europe, company A has had a growing problem with increasing customer defections above industry average. The churn issue is most acute in the SME division and thus they want it to be the first priority. \
@@ -14,17 +14,17 @@ In this repository, you can find the datasets and codes of modelling. \
 **Data Processing**
 Used all the 3 files given. (detailed data description can be found at the end) \
 Some of the key processes are: \
-* 1 Checked the time series and avoided using those features. \
-* 2 Converted date features into numerical and calculated the duration from the start date. \
-* 3 Imputed missing data with KNN.  \
-* 4 Removed outliers.  \
-* 5 Feature hashing encoding for high dimensional feature.  \
-* 6 Up/Down sampled the imbalanced target variable.  \
+* Checked the time series and avoided using those features. \
+* Converted date features into numerical and calculated the duration from the start date. \
+* Imputed missing data with KNN.  \
+* Removed outliers.  \
+* Feature hashing encoding for high dimensional feature.  \
+* Up/Down sampled the imbalanced target variable.  \
  \
 **Modelling**
- * Item 1 Considering the distribution of data and computational expense, tested Ensemble methods (Random Forest, XGboost, Gradient Boost, Adaboost)\
- * Item 2 Used Grid Search Cross Validation for all the models to maximize the ROC.\
- * Item 3 Draw learning curves to estimate the best parameter ranges for Grid Search.\
+ * Considering the distribution of data and computational expense, tested Ensemble methods (Random Forest, XGboost, Gradient Boost, Adaboost)\
+ * Used Grid Search Cross Validation for all the models to maximize the ROC.\
+ * Draw learning curves to estimate the best parameter ranges for Grid Search.\
  \
 **Data Description** \
 ![alt text](https://github.com/chierina/ESCP-ML-Python/blob/master/data_description.png)
