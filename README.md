@@ -1,6 +1,10 @@
 # ESCP ML with Python Final Project
-This is a case study designed for top tier strategic consulting company to solve business problem.\
+This is a case study designed for a top tier strategic consulting company.\
 \
+In this repository, you can find:\
+'Datasets' : all the provided datasets for training and testing. \
+'Codes' : codes for data exploration, training models, and testing. \
+ \
 **Case Scenario:** \
 Company A is a major utility company providing gas and electricity to corporate, SME and residential customers. In recent years, post-liberalization of the energy market in Europe, company A has had a growing problem with increasing customer defections above industry average. The churn issue is most acute in the SME division and thus they want it to be the first priority. \
 There are 3 datasets given as follows; 1. Features of customers 2. Electric prices for each customer 3. Churn data. \
