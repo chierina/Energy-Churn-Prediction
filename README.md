@@ -14,12 +14,12 @@ In this repository, you can find the datasets and codes of modelling. \
 **Data Processing**
 Used all the 3 files given. (detailed data description can be found at the end) \
 Some of the key processes are: \
-* Item 1 Checked the time series and avoided using those features. \
-* Item 2 Converted date features into numerical and calculated the duration from the start date. \
-* Item 4 Imputed missing data with KNN.  \
-* Item 5 Removed outliers.  \
-* Item 6 Feature hashing for high dimensional feature.  \
-* Item 7 Up/Down sampled the imbalanced target variable.  \
+* 1 Checked the time series and avoided using those features. \
+* 2 Converted date features into numerical and calculated the duration from the start date. \
+* 3 Imputed missing data with KNN.  \
+* 4 Removed outliers.  \
+* 5 Feature hashing encoding for high dimensional feature.  \
+* 6 Up/Down sampled the imbalanced target variable.  \
  \
 **Modelling**
  * Item 1 Considering the distribution of data and computational expense, tested Ensemble methods (Random Forest, XGboost, Gradient Boost, Adaboost)\
