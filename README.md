@@ -1,4 +1,4 @@
-# Machine Learning with Python Final Project
+# Churn Prediction for an Energy company
 This is a case study designed for a top tier strategic consulting company. \
 You can find following files in this repository.
 * Datasets : all the provided datasets for training and testing.
