@@ -1,5 +1,5 @@
 # Churn Prediction for an Energy Company
-This is a case study designed for a top tier strategic consulting company. \
+This is a case study designed for a top tier strategic consulting company which I chose for the final project of ML with Python course. \
 You can find following files in this repository.
 * Datasets : all the provided datasets for training and testing.
 * Codes : codes for data exploration, training models, and testing.
@@ -9,7 +9,7 @@ You can find following files in this repository.
 Company A is a major utility company providing gas and electricity. Company A has a growing problem with increasing customer defections, and the churn issue is the first priority. \
 There are 3 datasets given as follows; 1. Features of customers 2. Electric prices for each customer 3. Churn data. \
 I merged those 3 and explored the them to find out which model to choose then built models that can predict the probability of churn. \
-The main points of my work are below. \
+The summary of my work is below. \
 \
 **Data Processing** \
 Used all the 3 files given. (detailed data description can be found at the end) \
